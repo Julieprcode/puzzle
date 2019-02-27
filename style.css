@@ -1,0 +1,42 @@
+
+.container{
+    display: block;
+}
+div .picsection{
+    text-align:center ;
+    
+    }
+
+.btnarea{
+    text-align: center;
+    display: center;
+}
+
+
+
+    /* .imgsec{
+        display: inline-block;
+        }
+
+img{
+    border: 10px solid black;
+}
+*/
+a{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgba(255, 255, 255, 0.701);
+    font-size: 15px;
+    text-decoration:none; 
+}
+button{
+    background-image: linear-gradient(rgba(245, 249, 252, 0.173), rgba(255, 255, 255, 0.386));
+    text-align: center;
+    margin: 40px;
+    width: 140px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgba(85, 56, 11, 0.536);
+    border: 5px solid rgba(142, 96, 46, 0.735);
+    box-shadow: 3px 5px 6px 2px rgba(75, 39, 0, 0.235);
+   
+} 
